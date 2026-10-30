@@ -21,7 +21,7 @@ R_K_W = 0.020                       # envelope resistance (UA = 50 W/K)
 COP = 3.0
 P_MAX_KW = 8.0 / COP                 # electrical input; gives 8 kW thermal cooling capacity
 T_INITIAL_C = 26.0
-COMFORT_LOW_C, COMFORT_HIGH_C = 21.0, 21.0
+COMFORT_LOW_C, COMFORT_HIGH_C = 21.0, 22.0
 OCC_START_H, OCC_END_H = 8.0, 18.0
 
 
